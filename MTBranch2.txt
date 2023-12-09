@@ -1,0 +1,1 @@
+This is branch2.txt file. This file is added for branch2 in local not in Github
